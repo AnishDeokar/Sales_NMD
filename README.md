@@ -36,7 +36,7 @@ Supported profitability analysis, helping the business focus on high-margin prod
 
 *Screenshots* :- 
 
-
+https://github.com/AnishDeokar/Sales_NMD/blob/main/Snapshot%20of%20Dashboard.png
 
 
 
